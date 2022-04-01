@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+
+importFrom("grDevices", "dev.off", "pdf")
+    importFrom("stats", "prcomp")
+    importFrom("utils", "capture.output")

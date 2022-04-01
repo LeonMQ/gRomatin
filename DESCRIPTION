@@ -1,0 +1,29 @@
+Package: gRomatin
+Type: Package
+Title: gRomtin A Wrapper Package For Genomics Graphics
+Version: 0.1.0
+Author: Leon Kinsella,
+    Kelly Williams,
+    Lyndal Henden,
+    Natalie Grima
+Maintainer: Leon Kinsella <Leon.Kinsella@hdr.mq.edu.au>
+Description: Makes it easier to create graphics used in genomics. Graphics included are:
+    PCA,
+    Volcano Plots,
+    Summary tables,
+    Karyoplots, and
+    Venn Diagramms.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2 (>= 3.3.5),
+    tidyverse (>= 1.3.1),
+    dplyr (>= 1.0.8),
+    xtable (>= 1.8.4),
+    ggrepel (>= 0.9.1),
+    gtools (>= 3.9.2),
+    VennDiagram (>= 1.7.1),
+    TxDb.Hsapiens.UCSC.hg19.knownGene (>= 3.2.2),
+    karyoploteR (>= 1.21.3),
+    GenomeInfoDb (>= 1.30.1)
