@@ -31,6 +31,7 @@ Not all of these are on the CRAN, those are
 - TxDb.Hsapiens.UCSC.hg19.knownGene
 - karyoploteR
 - GenomeInfoDb
+
 These can be installed using bioconductor, though I found that I could only get karyoploter working from github, try both.
 ```
 install.packages("BiocManager")
