@@ -23,7 +23,7 @@ xtable >= 1.8.4
 ggrepel >= 0.9.1
 gtools >= 3.9.2
 VennDiagram >= 1.7.1
-TxDb.Hsapiens.UCSC.hg19.knownGene (>= 3.2.2
+TxDb.Hsapiens.UCSC.hg19.knownGene >= 3.2.2
 karyoploteR >= 1.21.3
 GenomeInfoDb >= 1.30.1
 ```
